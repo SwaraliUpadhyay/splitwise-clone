@@ -1,0 +1,11 @@
+# Go
+splitwise-clone/vendor/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/venv/
+**/.env
+
+# JavaScript
+**/node_modules/
